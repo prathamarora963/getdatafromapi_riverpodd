@@ -1,0 +1,4 @@
+#Wed Jun 08 14:20:30 IST 2022
+base.0=/Users/brightroots/Desktop/riverpod/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
