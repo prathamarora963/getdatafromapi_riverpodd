@@ -1,4 +1,4 @@
-# riverpod
+# riverpodd
 
 A new Flutter project.
 
